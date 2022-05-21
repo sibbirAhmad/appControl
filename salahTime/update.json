@@ -1,0 +1,16 @@
+{
+    "appUpdate" : {
+        "versionCode":1.1,
+        "source":"web",
+        "downloadUrl":"appDownloadUrl",
+        "dialog":{
+            "title":"New Version Found",
+            "content":"Please update your new App",
+            "posButton":"Download Now",
+            "negButton":"Cancel",
+            "autoCancel":"0"
+        }
+        
+
+    }
+}
