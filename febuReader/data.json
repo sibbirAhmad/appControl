@@ -1,0 +1,39 @@
+{
+    "appUpdate" : {
+        "versionCode":1,
+        "source":"web/playstore",
+        "dialog":{
+            "title":"New Version Febu Reader",
+            "message":"Please update your new App",
+            "action":"https://github.com/sibbirAhmad/appControl/raw/main/salahTime/apk/fabu_reader.apk",
+            "posButton":"Download Now",
+            "negButton":"Cancel",
+            "autoCancel":0,
+            "exitOnCancel":1
+        }
+    },
+    "newUserMessage":{
+        "updateId":0
+    },
+    "message":{
+        "updateId":0,
+        "messageType":"dialog/webpage",
+        "dialog":{
+            "title":"Messsage Title",
+            "posButton":"Yes",
+            "negButton":"Cancel",
+            "action":"nothing/blockApp/openFacebook/openUrl/openPlaystore/downloadApp/ratingApp/openActivity",
+            "autoCancel":"1"
+        },
+        "openUrl":"Url to Open",
+        "ratingApp":"ratingApp Url",
+        "webpage":"webpage url here"
+    },
+    "ad":{
+
+    },
+    "notification":{
+
+    }
+    
+}

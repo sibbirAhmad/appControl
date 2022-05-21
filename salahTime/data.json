@@ -1,11 +1,11 @@
 {
     "appUpdate" : {
-        "versionCode":2,
+        "versionCode":1,
         "source":"web/playstore",
         "dialog":{
-            "title":"Update Found",
+            "title":"New Version",
             "message":"Please update your new App",
-            "action":"https://play.google.com/store/apps/details?id=com.facebook.katana&hl=bn&gl=US",
+            "action":"https://github.com/sibbirAhmad/appControl/raw/main/febuReader/apk/fabu_reader.apk",
             "posButton":"Download Now",
             "negButton":"Cancel",
             "autoCancel":0,
