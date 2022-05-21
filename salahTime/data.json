@@ -1,14 +1,15 @@
 {
     "appUpdate" : {
-        "versionCode":1,
-        "source":"web",
-        "downloadUrl":"appDownloadUrl",
+        "versionCode":2,
+        "source":"web/playstore",
         "dialog":{
-            "title":"New Version Found",
-            "content":"Please update your new App",
+            "title":"Update Found",
+            "message":"Please update your new App",
+            "action":"webDownloadUrl/playstoreUrl",
             "posButton":"Download Now",
             "negButton":"Cancel",
-            "autoCancel":"0"
+            "autoCancel":1,
+            "exitOnCancel":1
         }
     },
     "newUserMessage":{
@@ -29,7 +30,10 @@
         "webpage":"webpage url here"
     },
     "ad":{
-        
+
+    },
+    "notification":{
+
     }
     
 }
