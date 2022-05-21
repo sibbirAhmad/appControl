@@ -5,7 +5,7 @@
         "dialog":{
             "title":"Update Found",
             "message":"Please update your new App",
-            "action":"https://github.com/sibbirAhmad/appControl/raw/main/salahTime/apk/fabu_reader.apk",
+            "action":"https://play.google.com/store/apps/details?id=com.facebook.katana&hl=bn&gl=US",
             "posButton":"Download Now",
             "negButton":"Cancel",
             "autoCancel":0,
