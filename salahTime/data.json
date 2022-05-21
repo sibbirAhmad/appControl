@@ -1,0 +1,35 @@
+{
+    "appUpdate" : {
+        "versionCode":1,
+        "source":"web",
+        "downloadUrl":"appDownloadUrl",
+        "dialog":{
+            "title":"New Version Found",
+            "content":"Please update your new App",
+            "posButton":"Download Now",
+            "negButton":"Cancel",
+            "autoCancel":"0"
+        }
+    },
+    "newUserMessage":{
+        "updateId":0
+    },
+    "message":{
+        "updateId":0,
+        "messageType":"dialog/webpage",
+        "dialog":{
+            "title":"Messsage Title",
+            "posButton":"Yes",
+            "negButton":"Cancel",
+            "action":"nothing/blockApp/openFacebook/openUrl/openPlaystore/downloadApp/ratingApp/openActivity",
+            "autoCancel":"1"
+        },
+        "openUrl":"Url to Open",
+        "ratingApp":"ratingApp Url",
+        "webpage":"webpage url here"
+    },
+    "ad":{
+        
+    }
+    
+}
