@@ -5,7 +5,7 @@
         "dialog":{
             "title":"Update Found",
             "message":"Please update your new App",
-            "action":"webDownloadUrl/playstoreUrl",
+            "action":"https://github.com/sibbirAhmad/appControl/raw/main/salahTime/apk/fabu_reader.apk",
             "posButton":"Download Now",
             "negButton":"Cancel",
             "autoCancel":0,
