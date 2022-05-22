@@ -1,6 +1,6 @@
 {
     "appUpdate" : {
-        "versionCode":2,
+        "versionCode":3,
         "source":"web/playstore",
         "dialog":{
             "title":"Update",
