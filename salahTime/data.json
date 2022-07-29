@@ -1,10 +1,10 @@
 {
     "appUpdate" : {
-        "versionCode":3,
+        "versionCode":4,
         "source":"web/playstore",
         "dialog":{
             "title":"Update",
-            "message":"New version released\nPlease Update soon",
+            "message":"New version released\n-Asr Time fixed",
             "action":"https://github.com/sibbirAhmad/appControl/raw/main/salahTime/apk/app-release.apk",
             "posButton":"Download Now",
             "negButton":"Cancel",
